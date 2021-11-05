@@ -1,2 +1,2 @@
-# jsHwGunIki
- Javascript kampı 2. gün ödevi
+# advancedJavaScript
+Starter kit for my JS Courses
